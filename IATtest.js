@@ -49,11 +49,11 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 			stimulusMedia : [ //Stimuli content as PIP's media objects
 				{word: 'definitive'},
 				{word: 'actual'},
-				{word: 'clearcut'},
+				{word: 'clear-cut'},
 				{word: 'precise'},
 				{word: 'reliable'},
 				{word: 'specific'},
-				{word: 'unambigious'},
+				{word: 'unambiguous'},
 				{word: 'absolute'}
 			],
 			//Stimulus css
@@ -68,7 +68,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			},
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-				{word: 'ambigious'},
+				{word: 'ambiguous'},
 				{word: 'vague'},
 				{word: 'indefinite'},
 				{word: 'inexact'},
