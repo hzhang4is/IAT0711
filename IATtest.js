@@ -11,7 +11,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    {word : 'zero sugar'}, 
-    			{word : 'zero emmision'}, 
+    			{word : 'zero emission'}, 
     			{word : 'zero fat'}, 
     			{word : 'zero interest'}, 
     			{word : 'zero gluten'}, 
